@@ -16,7 +16,7 @@
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=20&duration=3500&pause=1000&color=748997&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+ <img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=20&duration=3500&pause=1000&color=d3ac73&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
 
 
 
@@ -24,7 +24,7 @@
 
 <div align="center"> 
  
-![yuna](https://cdn.discordapp.com/attachments/1369581346787164213/1565464598432194741/286_20261030013704.png?ex=6ae50005&is=6ae3ae85&hm=de29e6b008849bc1665b62f8c215d08a9ea6c1a05c24859e37d5c79335d67b29) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nkhizue2mjcdme3law4vx6om7i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4f1111&interchange=false&profanity=false&hide_remaster=false&bar_color=b10b0b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![yuna](https://cdn.discordapp.com/attachments/1259164205504790540/1568339984736329769/286_20261107000254.png?ex=6aef75ee&is=6aee246e&hm=283325f8fa32a3a56bcf35c14c526f300fc9672f172fc085900cca32691ed7d4) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nkhizue2mjcdme3law4vx6om7i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4f1111&interchange=false&profanity=false&hide_remaster=false&bar_color=b10b0b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
  </div>
  
