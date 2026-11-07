@@ -16,7 +16,7 @@
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=20&duration=3500&pause=1000&color=d3ac73&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+ <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=30&duration=3500&pause=1000&color=b2a48f&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
 
 
 
