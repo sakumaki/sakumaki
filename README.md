@@ -12,22 +12,24 @@
 
 </br>
 </br>
+
 </div>
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=30&duration=3500&pause=1000&color=b2a48f&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+ <img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=40&duration=3500&pause=1000&color=496948&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
 
 
-
+</br>
+</br>
 
 
 <div align="center"> 
  
-![yuna](https://cdn.discordapp.com/attachments/1259164205504790540/1568339984736329769/286_20261107000254.png?ex=6aef75ee&is=6aee246e&hm=283325f8fa32a3a56bcf35c14c526f300fc9672f172fc085900cca32691ed7d4) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nkhizue2mjcdme3law4vx6om7i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4f1111&interchange=false&profanity=false&hide_remaster=false&bar_color=b10b0b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![yuna](https://cdn.discordapp.com/attachments/1259164205504790540/1569438848763699321/296_20261110004755.png?ex=6af37554&is=6af223d4&hm=68ca7587a200a540e743ae85a9807b4fb4970d950d96044fe0b0b40d91cefec5) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nkhizue2mjcdme3law4vx6om7i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4f1111&interchange=false&profanity=false&hide_remaster=false&bar_color=b10b0b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
  </div>
- 
+ </div>
 ---
 
 - fyi: offtab most of the time, might disconnect
